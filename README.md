@@ -1,4 +1,6 @@
 # Remonit is like GeekTool/Conky in the cloud
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/remonit.svg)](https://greenkeeper.io/)
 Remonit lets you run simple scripts to monitor your computer and/or servers. Gathered stats are shown in nice web dashboards that zoom with display size.
 
 
